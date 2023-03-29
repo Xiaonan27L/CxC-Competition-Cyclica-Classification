@@ -104,6 +104,7 @@ if __name__ == "__main__":
     # print(total)
     # import matplotlib.pyplot as plt
     print(agent.passive_adp(pi, 0.99)[0])
+    total = 0
     # lst_of_states = agent.passive_adp(pi, 0.99, adp_iters=2000)[1]
     # state_00 = list()
     # state_03 = list()
